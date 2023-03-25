@@ -53,5 +53,15 @@ npm run build
 
 
 ## Examples
+![Image Title](demoimage.jpg)
+<ul>
+  <li><a href="https://example.com/image.png">"Download audio to listen how the picture would be described to General User"</li>
+  <li><a href="https://example.com/image.png">"Download audio to listen how the picture would be described to Visually Impaired User"</li>
+  <li><a href="https://example.com/image.png">"Download audio to listen how the picture would be described to Autistic User"</li>
+  <li><a href="https://example.com/image.png">"Download audio to listen how the picture would be described to Child User"</li>
+</ul>
+
+#### Note:= The user preference can be changed from Settings menu provided by the browser extension.
+
 
 
