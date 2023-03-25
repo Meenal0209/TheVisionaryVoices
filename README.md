@@ -5,9 +5,9 @@
 <p>Identify a user's emotional state from a picture which he/she is surfing on web, and recommend suitable music to fit and/or improve their mood.</p>
 
 <h4>Cheer Me Up</h4>
-<p>Assess a person's emotional state based on the image content he is watching. If they seem to need it, cheer them up in an appropriate manner (e.g. tell jokes, teach them something like meditation to make them feel better).</p>
+<p>Assess a person's emotional state based on the image content he is watching. If they seem to need it, cheer them up in an appropriate manner (e.g. tell jokes to make them feel better).</p>
 
-<h4>Eye for Blind</h4>
+<h4>Eye for Visually Impaired</h4>
 <p>Provide a visual description of images for users who are visually impaired.</p>
 
 <h4>Guide For Child</h4>
