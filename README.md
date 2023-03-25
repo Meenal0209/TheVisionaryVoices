@@ -17,15 +17,16 @@
 <p>Provide visual description of images to cater to the needs of users with Autism-spectrum disorders, such as simple and consistent description, clear instructions, and sensory-friendly content.</p>
 
 ## Solution: AI Powered Chrome browser extension
-<ul>
-  <li>To enhance accessibility and foster positivity in image-based content.</li>
-  <li>Configurable Extension to cater to the requirements of users with visual impairments, Autism-spectrum disorders, and children, as well as to uplift the overall mood of a user.</li>
+<ul><h5>Introducing the latest web chrome browser extension that promotes accessibility and positivity in image-based content. With automatic voice captions and descriptions for images, users can enjoy a better browsing experience. Configurable for visually impaired, autistic, children, and general users looking to cheer up.
+ <br>
+#speechsynthesis #imagecaptioning #autism #webextension #mentalwellbeing #neurodiversity #huggingfacetransformers #childcontent #visual impairment #promptengineering #chatgptapi #cheermeup #autisminclusion)
+</h5>
   <li>Multi lingual and Multiple AI voice support</li>
-  <li>Configurable AI Speech Speed</li>
-  <li>Configurable AI Speech Pitch</li>
-  <li>Vision Powered By <a href="https://huggingface.co/" target="_blank">Hugging Face</a> - <a href="https://api-inference.huggingface.co/models/nlpconnect/vit-gpt2-image-captioning" target="_blank">vit-gpt2-image captioning model</a></li>
- <li>Logistic Powered By <a href="https://api.openai.com/v1/chat/completions" target="_blank">OpenAI chatgpt API for gpt-3.5-turbo model</a></li>
- <li>Speech Powered By <a href="https://developer.chrome.com/blog/web-apps-that-talk-introduction-to-the-speech-synthesis-api/" target="_blank">speech Synthesis API</a></li>
+  <li>Configurable AI Speech Speed and Pitch</li>
+  <li>Configurable User Persona</li>
+  <li><b>Vision Powered By</b> <a href="https://huggingface.co/" target="_blank">Hugging Face</a> - <a href="https://api-inference.huggingface.co/models/nlpconnect/vit-gpt2-image-captioning" target="_blank">vit-gpt2-image captioning model</a></li>
+  <li><b>Logistic Powered By </b><a href="https://api.openai.com/v1/chat/completions" target="_blank">OpenAI chatgpt API for gpt-3.5-turbo model</a></li>
+  <li><b>Speech Powered By</b> <a href="https://developer.chrome.com/blog/web-apps-that-talk-introduction-to-the-speech-synthesis-api/" target="_blank">speech Synthesis API</a></li>
 </ul>
 
 
