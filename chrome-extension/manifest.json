@@ -6,8 +6,8 @@
 	"action": {
 		"default_popup": "popup.html",
 		"default_icon": {              
-		  "16": "images/icon-16.png",
-		  "32": "images/icon-32.png"
+		  "16": "images/vision-icon.png",
+		  "32": "images/vision-icon.png"
 		},
 		"default_title": "Visionary-voices"
 	},
