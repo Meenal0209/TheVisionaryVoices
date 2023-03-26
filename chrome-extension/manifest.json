@@ -1,0 +1,43 @@
+{
+	"manifest_version": 3,
+	"name": "Visionary Voices",
+	"version": "1.0.0",
+	"description": "Enhancing Image Accessibility and Inclusivity on web through Automatic Voice Descriptions",
+	"action": {
+		"default_popup": "popup.html",
+		"default_icon": {              
+		  "16": "images/icon-16.png",
+		  "32": "images/icon-32.png"
+		},
+		"default_title": "Visionary-voices"
+	},
+	"permissions": [
+		"activeTab",
+		"declarativeContent",
+		"webRequest",
+		"webRequestBlocking",
+		"<all_urls>",
+		"storage",
+		"tabs",
+		"background",
+		"debugger"
+	  ],
+	"content_scripts":[
+		{
+			"matches": ["http://*/*", "https://*/*"],
+			"js": ["jquery.min.js","content.js"],
+			"all_frames": true,
+			"run_at": "document_start"
+		}
+	],
+	"icons": {
+		"16": "images/vision-icon.png",
+		"32": "images/vision-icon.png",
+		"48": "images/vision-icon.png",
+		"128": "images/vision-icon.png"
+	},
+
+	"host_permissions": [
+		"<all_urls>"
+	]
+}
